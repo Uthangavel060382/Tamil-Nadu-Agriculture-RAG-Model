@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+playwright
+beautifulsoup4
+requests
+pymupdf
+chromadb
+sentence-transformers
+langchain
+langchain-text-splitters
+python-dotenv
+pydantic>=2,<3
+httpx
+langchain-chroma
+langchain-huggingface

@@ -1,0 +1,61 @@
+{
+  "pages": 8,
+  "pdfs": 3,
+  "stored_chunks": 183,
+  "documents": [
+    {
+      "url": "https://agritech.tnau.ac.in/pdf/TNLA-Agri-Budget_--2024-25_English_20-02-2024-Fina_240220_151604.pdf",
+      "chunks": 158,
+      "local_path": "C:\\GEN AI\\Tamil-Nadu-Agriculture-RAG-Model\\data\\downloads\\54771470c4023544846e.pdf"
+    },
+    {
+      "url": "https://agritech.tnau.ac.in/seed_certification/seedtech_index.html",
+      "chunks": 1,
+      "local_path": "C:\\GEN AI\\Tamil-Nadu-Agriculture-RAG-Model\\data\\downloads\\1939ced09984ed14ef84.html"
+    },
+    {
+      "url": "https://agritech.tnau.ac.in/govt_schemes_services/pdf/govt_serv_schems_policy_notes.html",
+      "chunks": 3,
+      "local_path": "C:\\GEN AI\\Tamil-Nadu-Agriculture-RAG-Model\\data\\downloads\\dea0e3c1f1a9e20f9cd9.html"
+    },
+    {
+      "url": "https://tnhorticulture.tn.gov.in/",
+      "chunks": 3,
+      "local_path": "C:\\GEN AI\\Tamil-Nadu-Agriculture-RAG-Model\\data\\downloads\\ddbd0390757f6dfb6cfb.html"
+    },
+    {
+      "url": "https://agrimark.tn.gov.in/",
+      "chunks": 9,
+      "local_path": "C:\\GEN AI\\Tamil-Nadu-Agriculture-RAG-Model\\data\\downloads\\377fa667a9091e60b67b.html"
+    },
+    {
+      "url": "https://agritech.tnau.ac.in/",
+      "chunks": 6,
+      "local_path": "C:\\GEN AI\\Tamil-Nadu-Agriculture-RAG-Model\\data\\downloads\\c3256d82ec771cd3437c.html"
+    },
+    {
+      "url": "https://agritech.tnau.ac.in/seed_certification/seed_tech_Seed%20Village.html",
+      "chunks": 1,
+      "local_path": "C:\\GEN AI\\Tamil-Nadu-Agriculture-RAG-Model\\data\\downloads\\7510089d059c4b342062.html"
+    },
+    {
+      "url": "https://agritech.tnau.ac.in/seed_certification/seed_related_links.html",
+      "chunks": 2,
+      "local_path": "C:\\GEN AI\\Tamil-Nadu-Agriculture-RAG-Model\\data\\downloads\\187615681b56f3453a33.html"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://cms.tn.gov.in/cms_migrated/document/docfiles/agri_e_pn_2025_26.pdf",
+      "error": "HTTPSConnectionPool(host='cms.tn.gov.in', port=443): Max retries exceeded with url: /cms_migrated/document/docfiles/agri_e_pn_2025_26.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='cms.tn.gov.in', port=443) at 0x1da2bd1df90>, 'Connection to cms.tn.gov.in timed out. (connect timeout=10)'))"
+    },
+    {
+      "url": "https://www.tnagrisnet.tn.gov.in/",
+      "error": "HTTPSConnectionPool(host='www.tnagrisnet.tn.gov.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tnagrisnet.tn.gov.in', port=443) at 0x1da2bd1ee90>, 'Connection to www.tnagrisnet.tn.gov.in timed out. (connect timeout=10)'))"
+    },
+    {
+      "url": "http://agritech.tnau.ac.in/pdf/vegetableseedavailability07.08.2020.pdf",
+      "error": "No extractable text; image-only PDFs need OCR"
+    }
+  ]
+}
